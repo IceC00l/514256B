@@ -1,5 +1,7 @@
 ## Amiga DRAM chip tester for HYB-514256B with Arduino UNO (c) Pantelis 2018
 
+additional timing and port modification in the 514256.ino file.
+
 ![](arduino.jpg)
 
 BETA VERSION NOT A FINAL, IN TESTING PROGRESS , CONTRIBUTORS WANTED. 
